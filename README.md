@@ -2,7 +2,7 @@ To complete this Python Challenge, I met with my tutor 3 times. I used Jupyter N
 
 My tutor was able to help me with the following:
 
-Calculate the greatest decrease and increase in profits for my PyBank file 
-Print the test results for my PyBank file 
-Revised my code in order to create separate lines in my text file for PyBank 
-Added the 'try' and 'error' functions in my PyPoll code in order to calculate the total number of votes cast 
+1. Calculate the greatest decrease and increase in profits for my PyBank file 
+2. Print the test results for my PyBank file 
+3. Revised my code in order to create separate lines in my text file for PyBank 
+4. Added the 'try' and 'error' functions in my PyPoll code in order to calculate the total number of votes cast 
