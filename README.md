@@ -1,6 +1,6 @@
-To complete this Python Challenge, I met with my tutor 3 times in order to debug my code and ensure my edits worked properly. My tutor helped revise my code as I initially had a few struggles with my logic.  
+To complete this Python Challenge, I used the tools learned from class to write my initial code. I seeked additional guidance from my tutor in order to debug my code and ensure my edits worked properly.
 
-My tutor was able to help me with the following:
+My tutor was able to help me with the following parts of my code:
 
 1. Calculate the greatest decrease and increase in profits for my PyBank file 
 2. Print the test results for my PyBank file 
