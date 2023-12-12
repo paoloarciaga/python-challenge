@@ -8,6 +8,6 @@ My tutor was able to help me with the following:
 4. Added the 'try' and 'error' functions in my PyPoll code in order to calculate the total number of votes cast 
 
 Within the PyBank and PyPoll folders in this repo, you'll find the following files: 
-1. The Jupyter Notebooks where I practiced my code 
+1. The Jupyter Notebook files (.ipynb) where I practiced my code 
 2. My final Python files (.py) with my final code 
 3. The text files (.txt) which display the results of my code 
