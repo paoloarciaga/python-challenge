@@ -1,6 +1,6 @@
 # Python-Challenge
 
-PyBank:
+# PyBank:
 Using the financial dataset budget_data.csv, I created a Python script that analyzes the records to calculate each of the following values: 
 - The total number of months included in the dataset
 - The net total amount of "Profit/Losses" over the entire period
@@ -8,7 +8,7 @@ Using the financial dataset budget_data.csv, I created a Python script that anal
 - The greatest increase in profits (date and amount) over the entire period
 - The greatest decrease in profits (date and amount) over the entire period
 
-PyPoll Instructions:
+# PyPoll:
 In order to modernize this town's vote-counting process, I used the set of poll data in their election_data.csv and created a Python script that analyzes the votes and calculates the following values: 
 - The total number of votes cast
 - A complete list of candidates who received votes
